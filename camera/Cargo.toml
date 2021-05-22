@@ -1,0 +1,10 @@
+[package]
+name = "camera"
+version = "0.1.0"
+authors = ["burak-yildizoz <45322678+burak-yildizoz@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+opencv = "0.53"
